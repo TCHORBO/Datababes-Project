@@ -1,0 +1,18 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Montserrat';
+  margin: 0;
+  padding : 0;
+  text-align: justify;
+}
+p{
+    font-size: 1.8rem;
+}
+
+h1 {
+  text-align: center;;
+}
+.chap-num, .chap-title{
+    text-align: right;
+}
